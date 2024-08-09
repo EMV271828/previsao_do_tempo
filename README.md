@@ -9,9 +9,9 @@ Aplicativo criado como parte da avaliação na disciplina de Dipositivos Móveis
 - Flutter
 - Dart
 
-## Informações da Execução
+## Informações Adicionais
 
-Este aplicativo foi criado no formato desktop em um ambiente linux.
+Este programa foi criado como um aplicativo desktop em ambiente linux.
 
 ## Imagens
 
