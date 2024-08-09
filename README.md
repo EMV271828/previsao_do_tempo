@@ -2,7 +2,7 @@
 
 ## Descrição 
 
-Aplicativo criado na disciplina de Dipositivos Móveis, oferecida pela Universidade Federal Fluminense.
+Aplicativo criado como parte da avaliação na disciplina de Dipositivos Móveis, oferecida pela Universidade Federal Fluminense.
 
 ## Tecnologias utilizadas
 
@@ -14,3 +14,8 @@ Aplicativo criado na disciplina de Dipositivos Móveis, oferecida pela Universid
 Este aplicativo foi criado no formato desktop em um ambiente linux.
 
 ## Imagens
+
+<img src="https://github.com/EMV271828/previsao_do_tempo/blob/adicao_de_readme_e_licenca/img/inicio.png" width="200px">
+<img src="https://github.com/EMV271828/previsao_do_tempo/blob/adicao_de_readme_e_licenca/img/busca.png" width="200px">
+<img src="https://github.com/EMV271828/previsao_do_tempo/blob/adicao_de_readme_e_licenca/img/extras_tempo.png" width="200px">
+<img src="https://github.com/EMV271828/previsao_do_tempo/blob/adicao_de_readme_e_licenca/img/qualidade_do_ar.png" width="200px">
